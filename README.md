@@ -13,6 +13,7 @@ Based on user input, we created a map using GeoViews to display the filtered cit
 <img width="673" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/113721712/213933126-155c5763-44d7-4da5-97b6-5fe544afe692.png">
 
 For the 3rd deliverable, 4 cities were chosen at random to create a travel itinerary: 
+
 <img width="255" alt="Map_4_cities" src="https://user-images.githubusercontent.com/113721712/213933342-42d93fd8-d4d8-48a4-a0e1-f2b7dda19e17.png">
 
 
